@@ -10,23 +10,25 @@ Template for angular projects
 
 ## Required Software
 
-> What should I install?
+- [Node.js](https://nodejs.org/en) LTS version
+- [Angular CLI](https://v16.angular.io/cli)
+  - `npm install -g @angular/cli@16.2.16`
 
 ## Install
 
-> How do I install?
+Run `npm install` to install npm dependencies.
 
 ## Develop
 
-> How do I develop?
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Test
 
-> How do I test?
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Build
 
-> How do I build?
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Tech Stack
 
