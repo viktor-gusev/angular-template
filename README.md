@@ -11,8 +11,8 @@ Template for angular projects
 ## Required Software
 
 - [Node.js](https://nodejs.org/en) LTS version
-- [Angular CLI](https://v16.angular.io/cli)
-  - `npm install -g @angular/cli@16.2.16`
+- [Angular CLI](https://v20.angular.io/cli)
+  - `npm install -g @angular/cli@20.1.0`
 
 ## Install
 
